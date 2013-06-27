@@ -1,4 +1,4 @@
 startupwk1
 ==========
 
-wk1 assignment
+week1 assignment
